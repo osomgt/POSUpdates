@@ -1,5 +1,5 @@
 {
-    "LatestVersion": "1.0.0.9",
-    "UpdateUrl": "https://github.com/osomgt/POSUpdates/releases/download/v1.0.0.9/POSNexusFuel_1.0.0.9_x64.msix",
+    "LatestVersion": "1.0.0.2",
+    "UpdateUrl": "https://github.com/osomgt/POSUpdates/releases/download/v1.0.0.2/POSNexusFuel_1.0.0.2_x64.msix",
     "ChangeLog": "Se han mejorado las funcionalidades y corregido errores menores."
 }
